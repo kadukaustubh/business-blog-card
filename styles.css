@@ -5,6 +5,7 @@
 }
 
 body {
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -14,7 +15,6 @@ body {
 .container {
     background-color: #fff;
     border-radius: 20px;
-    margin: 50px;
     width: 425px;
     display: flex;
     flex-direction: column;
