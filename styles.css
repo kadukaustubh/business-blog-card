@@ -7,14 +7,14 @@
 body {
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start;
     background-color: #F2F5F9;
 }
 
 .container {
     background-color: #fff;
     border-radius: 20px;
-    margin: 80px 0 20px 0;
+    margin: 100px 0 0 0;
     width: 425px;
     display: flex;
     flex-direction: column;
